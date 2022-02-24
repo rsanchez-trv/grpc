@@ -4,7 +4,7 @@ metadata:
   name: grpc
   annotations:
     github.com/project-slug: rsanchez-trv/grpc
-  tags: grpc
+  tags: custom-tag
 spec:
   type: other
   lifecycle: unknown
