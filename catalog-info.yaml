@@ -4,7 +4,8 @@ metadata:
   name: grpc
   annotations:
     github.com/project-slug: rsanchez-trv/grpc
-  tags: ["custom-tag"]
+    backstage.io/techdocs-ref: value
+  tags: ["custom-tag"]    
 spec:
   type: other
   lifecycle: unknown
